@@ -1,4 +1,6 @@
 <Solution>
   <Project Path="Taskno1-PartA/Taskno1-PartA.csproj" />
+  <Project Path="Taskno1-PartB/Taskno1-PartB.csproj" />
+  <Project Path="Taskno2/Taskno2.csproj" />
   <Project Path="VP-Labno07/VP-Labno07.csproj" />
 </Solution>
